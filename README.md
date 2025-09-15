@@ -11,19 +11,19 @@ The circuit delivers a stable 3.3V output across a wide input voltage range, mak
 
 ## ⚡ Circuit Description
 
-- **Controller IC:-** Texas Instruments TPS630252 buck-boost converter
+- **Controller IC:**   Texas Instruments TPS630252 buck-boost converter
 
-- **Input:-** Wide voltage range via connectors (J1, J2)
+- **Input:**  Wide voltage range via connectors (J1, J2)
 
-- **Output:-** Regulated 3.3V DC via connectors (J3, J4)
+- **Output:**  Regulated 3.3V DC via connectors (J3, J4)
 
-- **Inductor:-** XAL4020-222MEB for energy storage
+- **Inductor:**  XAL4020-222MEB for energy storage
 
-- **Capacitors (C1–C3):-** Ensure stable filtering
+- **Capacitors (C1–C3):**  Ensure stable filtering
 
-- **Resistor Network (R1–R4):-** Feedback and configuration
+- **Resistor Network (R1–R4):**  Feedback and configuration
 
-- **LED1 + R5:-** Output indicator
+- **LED1 + R5:** Output indicator
 
 ## 📂 Repository Structure
 - **schematic And BOM/** → schematic diagram (PDF) And BOM file.
